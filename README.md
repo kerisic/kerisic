@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="http://github.com/kerisic">my github repo here</a>
 
-- 📝 I regularly write articles on <a href="http://medium.com/chrisc">Medium</a>
+- 📝 I regularly write articles on <a href="http://medium.com/chr1sc">Medium</a>
 
 - 💬 Ask me about **anything!**
 
