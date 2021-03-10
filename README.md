@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Chrissy</h1>
 <h3 align="center">A passionate junior full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/kerisic](github.com/kerisic)
+- 👨‍💻 All of my projects are available at <a href="http://github.com/kerisic">my github repo here</a>
 
-- 📝 I regularly write articles on [medium.com/chrisc](medium.com/chrisc)
+- 📝 I regularly write articles on <a href="http://medium.com/chrisc">Medium</a>
 
 - 💬 Ask me about **anything!**
 
