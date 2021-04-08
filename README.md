@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋 I'm Chrissy</h1>
 <h3 align="center">A passionate junior full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at <a href="http://github.com/kerisic?tab=repositories">my github repo here</a>
+- 👨‍💻 All of my projects are available at <a href="http://github.com/kerisic?tab=repositories">my github repo</a>
 
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **christinechee@outlook.com**
 
 - ⚡ Fun fact **Amateur chef and ramen sampler around the world**
+
+- 📕 Find my cv [here](https://github.com/kerisic/CV)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
