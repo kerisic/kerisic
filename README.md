@@ -33,6 +33,6 @@
 ### ⚙️ &nbsp; Where I worked
  * <strong>Software Engineering Student</strong>, <em>Makers Academy</em> (Jan 2021 – Apr 2021)  
  * <strong>Head of Client Experience</strong>, <em>Boditrax Technologies</em> (July 2018 – Jan 2021)  
- * <strong>Researcher</strong>, <em>MGP Saxton Bampfylde</em> (May 2015 – May 2018)   
+ * <strong>Researcher</strong>, <em>Saxton Bampfylde</em> (May 2015 – May 2018)   
 
 📗 You can find my full CV here! <strong><a href="https://github.com/kerisic/banktechtest/files/6384074/Christine_Chee_CV.pdf">here</a></strong>. 
