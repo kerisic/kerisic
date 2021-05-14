@@ -29,6 +29,7 @@
 * Marble (<a href="https://github.com/anioji94/marble">Repo</a>) - An invisible habit savings mobile app to combat consumerism built with React Native & Firebase.
 * Chitter (<a href="https://github.com/kerisic/chitter-challenge">Repo</a>) - Twitter clone built with Ruby.
 * Bowling Score Calculator (<a href="https://github.com/kerisic/bowling-challenge">Repo</a>) - A bowling score calculator built with jQuery.
+* MakersBnB (<a href="https://github.com/kerisic/makersbnb-ckaos">Repo</a>) - A bed and breakfast booking web app.
 
 ---
 
