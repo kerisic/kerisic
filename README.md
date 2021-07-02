@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋 I'm Chrissy</h1>
-<h3 align="center">A passionate and curious junior full-stack developer 👀</h3>
-
-- 👨‍💻 Check out what I've been up to at <a href="http://github.com/kerisic?tab=repositories">my github repo</a>
-
-- 💬 Ask me about **anything!**
+<h3 align="center">A passionate and curious full-stack developer 👀</h3>
 
 - 📫 You can reach me at **christinechee@outlook.com**
 
@@ -13,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/christine-chee-041a3b93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christine-chee-041a3b93" height="30" width="40" /></a>
 <a href="https://instagram.com/konacchii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="konacchii" height="30" width="40" /></a>
-<a href="https://medium.com/@chrisc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chrisc" height="30" width="40" /></a>
 </p>
 
 ---
@@ -29,11 +24,12 @@
 * Marble (<a href="https://github.com/anioji94/marble">Repo</a>) - An invisible habit savings mobile app to combat consumerism built with React Native & Firebase.
 * Chitter (<a href="https://github.com/kerisic/chitter-challenge">Repo</a>) - Twitter clone built with Ruby.
 * Bowling Score Calculator (<a href="https://github.com/kerisic/bowling-challenge">Repo</a>) - A bowling score calculator built with jQuery.
-* MakersBnB (<a href="https://github.com/kerisic/makersbnb-ckaos">Repo</a>) - A bed and breakfast booking web app.
 
 ---
 
 ### ⚙️ &nbsp; Where I worked
+
+ * <strong>Software Developer</strong>, <em>Mortgage Advice Bureau</em> (Jul 2021 – Present)  
  * <strong>Software Engineering Student</strong>, <em>Makers Academy</em> (Jan 2021 – Apr 2021)  
  * <strong>Head of Client Experience</strong>, <em>Boditrax Technologies</em> (July 2018 – Jan 2021)  
  * <strong>Researcher</strong>, <em>Saxton Bampfylde</em> (May 2015 – May 2018)   
