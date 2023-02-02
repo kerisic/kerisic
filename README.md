@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Chrissy</h1>
 <h3 align="center">A passionate and curious full-stack developer 👀</h3>
 
-- 📫 You can reach me at **christinechee@outlook.com**
-
 - ⚡ Fun fact: **Amateur chef and ramen sampler around the world**
 
 <h3 align="left">Connect with me:</h3>
